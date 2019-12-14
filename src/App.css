@@ -1,0 +1,49 @@
+.App {
+  height: 100%;
+}
+
+#app-header {
+  padding: 15px;
+  color: #fff;
+  background: #252424;
+}
+
+.post {
+  padding-bottom: 10px;
+}
+
+.post:hover {
+  cursor: pointer;
+}
+
+.title {
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.user-name {
+  padding-left: 8px;
+}
+
+.user-name:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.close-icon {
+  float: right;
+  cursor: pointer;
+}
+
+.back-link {
+  cursor: pointer;
+  color: gray;
+}
+
+.user-row {
+  padding: 10px 0;
+}
+
+.user-row span {
+  font-weight: 600;
+}
